@@ -8,3 +8,4 @@
 - Giảm Tinh bột (Cơm 🍚) 'gấy tiểu đường'
 - Ăn 1 quả trứng 🥚
 - Cá hồi phải có (1-2/tuần)
+- Uống sữa
