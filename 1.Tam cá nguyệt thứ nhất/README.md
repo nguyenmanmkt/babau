@@ -1,16 +1,2 @@
-3 tháng đầu thai kỳ (tuần 1 – 13)
-## Mẹ ơi,
+### 3 tháng đầu thai kỳ (tuần 1 – 13)
 
-Chắc hẳn mẹ đã bồi hồi hạnh phúc khi biết đang mang trong mình một sinh linh bé nhỏ. Nhưng mẹ ơi, đây cũng là khoảng thời gian mẹ sẽ cảm thấy mỏi mệt nhất vì “không kịp trở tay” với những thay đổi của cơ thể như:
-
-- Căng tức ngực.
-- Buồn nôn hoặc nôn (ốm nghén), nhạy cảm với rất nhiều thứ mà trước đây tưởng chừng như bình thường, ví dụ như mùi đồ ăn, mùi nước giặt…
-- Tăng hoặc có thể giảm cân.
-- Mệt mỏi, đau nhức đầu, ợ nóng, đau lâm râm bụng dưới.
-- Tâm trạng dễ bị thay đổi. Mẹ bầu hãy giữ tinh thần thoải mái, tránh bị stress hoặc căng thẳng vì sẽ ảnh hưởng đến thai nhi.
-- Bắt đầu thèm và ghét một số thực phẩm.
-- Thay đổi cả thói quen tiểu tiện.
-
-### Tuy nhiên,
-
-Tùy theo thể trạng mỗi người mà mẹ sẽ có những thay đổi trong giai đoạn đầu của **tam cá nguyệt đầu tiên** một cách khác nhau.
