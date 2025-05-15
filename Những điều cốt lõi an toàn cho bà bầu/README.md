@@ -21,9 +21,9 @@ Thư mục này được tạo ra nhằm **tổng hợp các nguyên tắc cốt
 - Sữa rửa mặt, kem chống nắng, dưỡng ẩm, treatment an toàn
 - Gợi ý routine đơn giản nhưng hiệu quả
 
-### 📝 Danh sách kiểm tra (Checklist):
-- Mẹ có thể in ra để kiểm tra nhanh các sản phẩm đang dùng
-
+### 📝 Cân nặng:
+- Mẹ có thể tăng từ 10kg đến 12kg là tốt nhất (hạn chế tăng quá nhiều)
+- Em bé từ 3kg -3,5kg là tốt nhât
 ---
 
 ## 📌 Ghi chú
@@ -33,6 +33,6 @@ Thư mục này được tạo ra nhằm **tổng hợp các nguyên tắc cốt
 
 ---
 
-Chúc mẹ có một thai kỳ khoẻ mạnh, an toàn và luôn xinh đẹp! 💗  
+# Chúc mẹ có một thai kỳ khoẻ mạnh, an toàn và luôn xinh đẹp! 💗  
 _— From a team who cares deeply about moms and babies_
 
