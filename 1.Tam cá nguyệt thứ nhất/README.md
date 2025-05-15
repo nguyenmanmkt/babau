@@ -5,6 +5,6 @@
 ### Ăn uống
 
 - Uốn Elevit 💊
-- Giảm Tinh bột (Cơm 🍚)
+- Giảm Tinh bột (Cơm 🍚) 'gấy tiểu đường'
 - Ăn 1 quả trứng 🥚
 - 
