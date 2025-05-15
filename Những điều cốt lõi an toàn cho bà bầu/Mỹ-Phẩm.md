@@ -49,6 +49,43 @@ Không phải hoạt chất nào cũng đáng sợ. Có rất nhiều thành ph�
 - ⚠️ **Tham khảo bác sĩ** nếu mẹ đang điều trị da liễu đặc biệt (nám, mụn nặng, v.v.).
 - ⚠️ **Kiểm tra kỹ bảng thành phần**, đừng tin vào dòng chữ “safe for pregnant women” nếu không có xác minh thành phần.
 
+## 🌸 Một số thương hiệu & sản phẩm mỹ phẩm an toàn cho bà bầu
+
+> ✅ Đây là các thương hiệu được đánh giá cao về độ lành tính, bảng thành phần an toàn, được nhiều mẹ bầu tin dùng tại Việt Nam.
+
+| Thương hiệu / sản phẩm              | Loại sản phẩm           | Đặc điểm nổi bật |
+|------------------------------------|--------------------------|------------------|
+| **Cỏ Mềm HomeLab**                 | Dầu gội, sữa rửa mặt, son dưỡng | Thành phần thiên nhiên, không hương liệu tổng hợp, không paraben |
+| **Bioderma Sensibio / Atoderm**    | Sữa rửa mặt, kem dưỡng  | Dịu nhẹ, không cồn, không mùi, phù hợp da nhạy cảm |
+| **La Roche-Posay Toleriane**       | Dưỡng ẩm, làm dịu da    | Không hương liệu, không paraben, da nhạy cảm & bà bầu dùng tốt |
+| **Mad Hippie Vitamin C Serum**     | Serum làm sáng da       | Vitamin C dạng SAP, an toàn cho mẹ bầu, có HA & chiết xuất thực vật |
+| **The Ordinary Niacinamide 10%**   | Serum trị mụn, làm sáng | Niacinamide lành tính, có thể dùng trong thai kỳ nếu da không kích ứng |
+| **Aveeno Skin Relief Lotion**      | Dưỡng thể                | Chiết xuất yến mạch, cấp ẩm sâu, không mùi |
+| **Thayers Alcohol-Free Toner**     | Toner                    | Không cồn, dịu nhẹ, Witch Hazel chưng cất tự nhiên |
+| **Dr. Brown’s Baby Lotion**        | Dưỡng thể (đa năng)     | Dành cho cả mẹ và bé, bảng thành phần siêu dịu nhẹ |
+| **Juice Beauty**                   | Dòng hữu cơ cao cấp     | Không chứa hóa chất độc hại, phù hợp cho mẹ bầu & cho con bú |
+| **Botani (Úc)**                    | Dược mỹ phẩm thiên nhiên | Được các bác sĩ da liễu khuyên dùng cho mẹ bầu và da nhạy cảm |
+
+---
+
+### 📝 Lưu ý khi lựa chọn mỹ phẩm:
+
+- Luôn **đọc kỹ bảng thành phần** trước khi sử dụng, ngay cả với sản phẩm được dán nhãn “dành cho mẹ bầu”.
+- Trong thai kỳ, làn da dễ nhạy cảm hơn — nên hãy **test thử ở một vùng nhỏ (ví dụ sau tai)** trước khi dùng trên diện rộng.
+- Không sử dụng sản phẩm có chứa: **Retinoids, Salicylic Acid nồng độ cao, Paraben, Formaldehyde, Hydroquinone**...
+- Nếu đang điều trị da liễu, **hỏi ý kiến bác sĩ** trước khi dùng thêm sản phẩm mới.
+
+---
+
+📁 Nếu bạn muốn mở rộng, có thể chia tiếp theo nhóm sản phẩm:
+- Sữa rửa mặt an toàn cho mẹ bầu
+- Kem chống nắng vật lý không gây hại
+- Sản phẩm trị mụn lành tính
+- Son môi/son dưỡng không chì
+
+---
+
+
 ---
 
 ### 📎 Gợi ý nhãn dán quản lý sản phẩm trong repo
@@ -60,4 +97,4 @@ Không phải hoạt chất nào cũng đáng sợ. Có rất nhiều thành ph�
 ---
 
 💡 _Đây là phần nền tảng cốt lõi, các folder theo từng giai đoạn sẽ cụ thể hoá routine & sản phẩm phù hợp hơn._
-
+> *Tài liệu này mang tính tham khảo, không thay thế cho tư vấn chuyên môn của bác sĩ da liễu hoặc bác sĩ sản khoa.*
