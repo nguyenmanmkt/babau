@@ -14,7 +14,6 @@
 - `Tam cá nguyệt thứ nhất`: 0–13 tuần đầu tiên, giai đoạn quan trọng nhất.
 - `Tam cá nguyệt thứ hai`: 14–27 tuần, bắt đầu dưỡng nhẹ nhàng, phục hồi da.
 - `Tam cá nguyệt thứ ba`: 28–40 tuần, ưu tiên giữ ẩm, thư giãn và tránh stress.
-- `du-lieu-thanh-phan`: Danh sách chi tiết thành phần nên/không nên dùng.
-- `cong-cu`: Mẫu bảng phân tích thành phần và checklist an toàn.
+- `Những điều cốt lõi an toàn cho bà bầu`: Danh sách chi tiết thành phần nên/không nên dùng.
 
 > ⚠️ **Lưu ý:** Tài liệu chỉ mang tính tham khảo, không thay thế chỉ định của bác sĩ chuyên khoa.
