@@ -2,5 +2,5 @@
 
 ## Hàng ngày
 
-- tiếp tục bỏ xung canxi và sắt
+- Tiếp tục bổ xung canxi và sắt
 - 
