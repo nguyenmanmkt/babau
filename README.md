@@ -4,7 +4,7 @@
 Đây là kho tài liệu tổng hợp giúp mẹ bầu **tra cứu nhanh** về độ an toàn của các sản phẩm dưỡng da, thuốc, thực phẩm chức năng,... theo **từng giai đoạn mang thai**.
 
 ## 🎯 Mục tiêu
-
+- Chế độ dinh dưỡng phù hợp từng giai đoạn.
 - Giúp mẹ bầu **tránh xa các thành phần độc hại** ảnh hưởng tới thai nhi.
 - Phân loại rõ ràng **nên - không nên - cần cân nhắc**.
 - Dễ sử dụng kể cả khi không rành về mỹ phẩm.
