@@ -4,5 +4,7 @@
 
 ### Ăn uống
 
-- Uốn 
+- Uốn Elevit
 - Giảm Tinh bột (Cơm)
+- Ăn 1 quả trứng
+- 
