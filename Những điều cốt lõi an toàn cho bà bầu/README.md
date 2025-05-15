@@ -1,7 +1,7 @@
 # Những điều cốt lõi an toàn cho bà bầu 🤰
 
 Chào mẹ bầu 💕  
-Giai đoạn mang thai là hành trình đặc biệt đầy yêu thương nhưng cũng đầy thách thức. Không chỉ thay đổi về thể chất, mẹ còn phải đặc biệt cẩn trọng với từng sản phẩm mẹ tiếp xúc – đặc biệt là mỹ phẩm, dược mỹ phẩm và thói quen chăm sóc da mỗi ngày.
+Giai đoạn mang thai là hành trình đặc biệt đầy yêu thương nhưng cũng đầy thách thức. Không chỉ thay đổi về thể chất, mẹ còn phải đặc biệt cẩn trọng với từng sản phẩm mẹ tiếp xúc – đặc biệt là mỹ phẩm, ăn uống và thói quen sinh hoạt ngày.
 
 Thư mục này được tạo ra nhằm **tổng hợp các nguyên tắc cốt lõi**, những sản phẩm **an toàn trong suốt thai kỳ** (bao gồm cả 3 tam cá nguyệt) và **những điều cần tránh tuyệt đối** để đảm bảo an toàn cho mẹ và bé.
 
