@@ -9,3 +9,8 @@
 - Ăn 1 quả trứng 🥚
 - Cá hồi phải có (1-2/tuần)
 - Uống sữa
+### Danh sách cần mua
+
+### Lịch trình sắp tới
+
+### 
