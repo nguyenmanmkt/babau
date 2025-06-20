@@ -1,0 +1,90 @@
+# NÊN CHỌN DOUBLE TEST HAY NIPT?
+## Hướng dẫn dễ hiểu cho mẹ bầu và gia đình
+
+---
+
+### 👶 1. Vì sao cần sàng lọc trước sinh?
+
+Khi mang thai, mọi gia đình đều mong con sinh ra khỏe mạnh. Tuy nhiên, vẫn có những bất thường nhiễm sắc thể (như hội chứng Down, Edwards, Patau…) có thể xảy ra, kể cả khi mẹ bầu khỏe mạnh, dưới 35 tuổi và không có tiền sử gia đình.
+
+📌 Do đó, các xét nghiệm sàng lọc trước sinh như **Double Test** và **NIPT** ra đời để giúp phát hiện sớm các nguy cơ, từ đó có hướng theo dõi hoặc can thiệp phù hợp.
+
+---
+
+### 🧪 2. Double Test là gì?
+
+- **Thời điểm**: tuần 11–13 của thai kỳ  
+- **Phương pháp**: lấy máu mẹ và siêu âm thai  
+- **Mục đích**: phát hiện nguy cơ bất thường nhiễm sắc thể, đặc biệt là Down, Edwards, Patau  
+- **Chi phí**: khoảng 300.000 – 1.000.000đ  
+- **Độ chính xác (với Down)**: khoảng 80%  
+- ⚠️ **Lưu ý**: Đây là xét nghiệm **sàng lọc**, không khẳng định có bệnh
+
+---
+
+### 🧬 3. NIPT là gì?
+
+- **Thời điểm**: từ tuần 10 trở đi  
+- **Phương pháp**: lấy máu mẹ, phân tích ADN của thai nhi trong máu  
+- **Độ chính xác**: >99% với hội chứng Down  
+- **Chi phí**: từ 6.000.000đ – 15.000.000đ  
+- **Ưu điểm**: không xâm lấn, phát hiện sớm và chính xác hơn Double Test  
+- ⚠️ Đây cũng là xét nghiệm **sàng lọc** (chưa phải chẩn đoán tuyệt đối)
+
+---
+
+### 📊 4. So sánh nhanh Double Test và NIPT
+
+| Tiêu chí | Double Test | NIPT |
+|----------|-------------|------|
+| Làm khi nào | Tuần 11–13 | Từ tuần 10 |
+| Phương pháp | Máu mẹ + siêu âm | Máu mẹ |
+| Phát hiện | T21, T18, T13 | T21, T18, T13 (và nhiều loại khác) |
+| Độ chính xác | ~80% | >99% |
+| Chi phí | Thấp | Cao |
+| Dành cho ai? | Mẹ bầu <35, không nguy cơ | Mọi đối tượng, đặc biệt là >35 tuổi |
+
+---
+
+### 🧠 5. Nếu kết quả "nguy cơ cao", xử lý sao?
+
+#### Trường hợp 1: **Làm Double Test → nguy cơ cao**
+
+➡️ Không vội lo lắng! Vì:
+- Tỷ lệ dương tính giả khá cao (~94% nếu mẹ <35 tuổi)
+- Nên làm tiếp **NIPT** để xác nhận lại
+
+#### Trường hợp 2: **Làm NIPT → nguy cơ cao**
+
+➡️ Xác suất có thật cao hơn (~80–90%), nhưng vẫn cần:
+- Làm xét nghiệm **chọc ối** để chẩn đoán chính xác nhất
+
+---
+
+### ✅ 6. Gợi ý lựa chọn xét nghiệm
+
+| Trường hợp | Gợi ý |
+|------------|-------|
+| Mẹ khỏe mạnh, <35 tuổi, không tiền sử | Làm **Double Test trước**, nếu nguy cơ cao thì làm thêm **NIPT** |
+| Mẹ >35 tuổi hoặc từng có thai bất thường | Làm **NIPT ngay từ đầu** |
+| Gia đình muốn an tâm cao nhất | Làm **NIPT ngay từ đầu**, bỏ qua Double Test |
+
+---
+
+### 💬 7. Lời khuyên nhẹ nhàng cho gia đình
+
+- Double Test là bước khởi đầu phổ biến và hợp lý  
+- Nếu có bất thường, **NIPT là bước xác nhận cực kỳ an toàn, không đau, chính xác cao**  
+- Phần lớn thai kỳ vẫn an toàn – chỉ cần theo dõi đúng lịch và tin tưởng bác sĩ  
+- Đừng lo lắng quá sớm, vì rất nhiều mẹ bầu có kết quả “nguy cơ cao” vẫn sinh con hoàn toàn bình thường
+
+---
+
+### ❤️ 8. Thông điệp cuối cùng
+
+> 👉 Sàng lọc không phải để gây lo lắng, mà để **chủ động**.  
+> 👉 Quan trọng là có thông tin đúng, chọn bước phù hợp và đồng hành cùng nhau.
+
+---
+
+*Bài viết được viết bởi AI Assistant kết hợp cùng Mẫn – một người cha kỹ thuật nhưng tâm lý 😊*  
