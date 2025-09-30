@@ -58,14 +58,15 @@
 
 ## 3️⃣ Duy trì song song (Hằng ngày, lâu dài)
 
-### 🥛 Sữa bổ sung Canxi + D3 + K2 (200 ml/ly, 2 ly/ngày)
+### 🥛 Sữa bổ sung Canxi (200 ml/ly, 2 ly/ngày)
 **Thành phần mỗi ly (200 ml):**
-- **Canxi**: ~280 mg.  
-- **Vitamin D3**: ~136 IU.  
-- **Vitamin K2**: ~18 mcg.  
-- **Magiê**: 23 mg.  
-- **Kẽm**: 2 mg.  
-- **Vitamin nhóm B, C, Selen, GABA** → hỗ trợ tiêu hóa & giấc ngủ.  
+Canxi: 110 mg → 1 ly 200 ml = 220 mg canxi.
+Phospho: 80 mg → hỗ trợ chuyển hóa canxi-phospho trong xương.
+Vitamin D3: 60 IU → 1 ly 200 ml = 120 IU (rất thấp so với nhu cầu 800–1000 IU/ngày).
+Vitamin A: 200 IU → hỗ trợ miễn dịch, mắt.
+Selen: 7,5 µg → chất chống oxy hóa.
+Đạm: 3 g / 100 ml → 6 g/ly 200 ml, giúp duy trì cơ.
+Năng lượng: 68,5 kcal / 100 ml → ~137 kcal/ly 200 ml. 
 
 **Tác dụng:**  
 ✔️ Tăng cường canxi “mềm” dễ hấp thu.  
