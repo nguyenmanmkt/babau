@@ -59,7 +59,7 @@
 ## 3️⃣ Duy trì song song (Hằng ngày, lâu dài)
 
 ### 🥛 Sữa bổ sung Canxi (200 ml/ly, 2 hộp/ngày)
-**Thành phần mỗi hộp (110 ml):**
+**Thành phần có trong 100ml:**
 - Canxi: 110 mg.
 - Phospho: 80 mg → hỗ trợ chuyển hóa canxi-phospho trong xương.
 - Vitamin D3: 60 IU .
