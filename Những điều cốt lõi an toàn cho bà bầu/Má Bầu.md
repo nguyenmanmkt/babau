@@ -58,21 +58,22 @@
 
 ## 3️⃣ Duy trì song song (Hằng ngày, lâu dài)
 
-### 🥛 Sữa bổ sung Canxi (200 ml/ly, 2 ly/ngày)
-**Thành phần mỗi ly (200 ml):**
-Canxi: 110 mg → 1 ly 200 ml = 220 mg canxi.
-Phospho: 80 mg → hỗ trợ chuyển hóa canxi-phospho trong xương.
-Vitamin D3: 60 IU → 1 ly 200 ml = 120 IU (rất thấp so với nhu cầu 800–1000 IU/ngày).
-Vitamin A: 200 IU → hỗ trợ miễn dịch, mắt.
-Selen: 7,5 µg → chất chống oxy hóa.
-Đạm: 3 g / 100 ml → 6 g/ly 200 ml, giúp duy trì cơ.
-Năng lượng: 68,5 kcal / 100 ml → ~137 kcal/ly 200 ml. 
+### 🥛 Sữa bổ sung Canxi (200 ml/ly, 2 hộp/ngày)
+**Thành phần mỗi hộp (110 ml):**
+- Canxi: 110 mg.
+- Phospho: 80 mg → hỗ trợ chuyển hóa canxi-phospho trong xương.
+- Vitamin D3: 60 IU .
+- Vitamin A: 200 IU → hỗ trợ miễn dịch, mắt.
+- Selen: 7,5 µg → chất chống oxy hóa.
+- Đạm: 3 g / 100 ml giúp duy trì cơ.
+- Năng lượng: 68,5 kcal / 100 ml. 
 
 **Tác dụng:**  
 ✔️ Tăng cường canxi “mềm” dễ hấp thu.  
 ✔️ Cải thiện giấc ngủ, tiêu hóa.  
 ✔️ Duy trì sức khỏe tổng thể.  
 
+> https://www.vinamilk.com.vn/products/sua-tuoi-tiet-trung-it-duong?pack=110ml&size=Th%C3%B9ng+48+h%E1%BB%99p
 ---
 
 ## 🍽️ Dinh dưỡng & Sinh hoạt
