@@ -1,8 +1,12 @@
 # 🦴 Lộ Trình Chăm Sóc Xương Khớp Cho Má
 
 ## ⏱ Timeline
-- **Tháng 1–2** → **Osteo Bi-Flex** (giảm đau, nuôi dưỡng khớp).  
-- **Tháng 3–8** → **Super Calcium D3+K2** (củng cố xương, chống loãng xương).  
+- **Tháng 1–2** → **Osteo Bi-Flex 120 viên** (giảm đau, nuôi dưỡng khớp).
+  <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/9bafb6bb-e7f2-4d45-89cb-96c71a6bafc3" />
+https://chiaki.vn/osteo-bi-flex-thuoc-bo-khop-cua-my-120-vien/bt-cmFkaW8=__20_5948a349f3926+cXVhbnRpdHk=?stid=3783
+- **Tháng 3–8** → **Super Calcium D3+K2** (củng cố xương, chống loãng xương).
+  <img width="1080" height="600" alt="image" src="https://github.com/user-attachments/assets/8eb14b56-f3ce-4ce1-8357-5030c260562f" />
+https://www.nhathuocankhang.com/bo-xuong-khop/thuc-pham-bao-ve-suc-khoe-super-calcium-vitamin-d3-k2-hop-120-vien
 - **Xuyên suốt** → Sữa + dinh dưỡng + vận động nhẹ.
 
 ---
@@ -38,15 +42,3 @@
 
 ---
 
-## ✅ Checklist Hằng Tuần
-| Ngày | Sáng | Trưa | Tối | Sữa sáng | Sữa tối | Vận động | Ghi chú |
-|------|------|------|-----|----------|---------|----------|---------|
-| Thứ 2 | ⬜ Osteo / Calcium |   | ⬜ Calcium | ⬜ | ⬜ | ⬜ |         |
-| Thứ 3 | ⬜ |   | ⬜ | ⬜ | ⬜ | ⬜ |         |
-| Thứ 4 | ⬜ |   | ⬜ | ⬜ | ⬜ | ⬜ |         |
-| Thứ 5 | ⬜ |   | ⬜ | ⬜ | ⬜ | ⬜ |         |
-| Thứ 6 | ⬜ |   | ⬜ | ⬜ | ⬜ | ⬜ |         |
-| Thứ 7 | ⬜ |   | ⬜ | ⬜ | ⬜ | ⬜ |         |
-| CN    | ⬜ |   | ⬜ | ⬜ | ⬜ | ⬜ |         |
-
-*(⬜ = tick khi đã uống/đã làm)*  
