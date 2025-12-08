@@ -11,6 +11,16 @@ Paracetamol (Acetaminophen) là **thuốc hạ sốt duy nhất an toàn cho tr�
 
 ### Dạng bào chế
 - **Siro**: dễ dùng nhất.
+<img width="375" height="375" alt="image" src="https://github.com/user-attachments/assets/5d149a85-282d-49b6-891e-b3ef01660995" />
+
+https://nhathuoclongchau.com.vn/thuoc/sara-strawberry-children-60ml-15153.html
+
+Liều thường dùng: Uống mỗi 4 - 6 giờ khi cần thiết nhưng không quá 5 lần/ngày.
+
+Trẻ em 4 tháng - 1 tuổi: 1/2 thìa cà phê (tương đương 2,5 ml)/lần.
+Trẻ em 1 - 2 tuổi: 1 thìa cà phê (tương đương 5 ml)/ lần.
+Trẻ em 2 - 6 tuổi: 1 - 2 thìa cà phê (tương đương 5 - 10 ml)/lần.
+
 - **Gói bột**: cho trẻ lớn hơn.
 - **Đặt hậu môn (suppository)**: dùng khi trẻ nôn ói hoặc không uống được thuốc.
 
