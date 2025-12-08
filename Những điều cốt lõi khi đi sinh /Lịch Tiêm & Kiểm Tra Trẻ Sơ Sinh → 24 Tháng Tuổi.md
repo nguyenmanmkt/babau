@@ -1,7 +1,4 @@
 # Lộ trình kết hợp TCMR + VNVC 
-> Nguyên tắc: 
-> - Tận dụng tối đa TCMR cho vắc xin cơ bản miễn phí. 
-> - Dùng VNVC để bổ sung các mũi TCMR không có (rota, phế cầu, cúm, não mô cầu, thủy đậu, viêm gan A/B kết hợp, thương hàn, tả…). [web:1]
 
 ## 1. Giai đoạn sơ sinh – 2 tháng
 
