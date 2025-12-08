@@ -28,6 +28,8 @@
 ---
 
 ## ✅ **Bước 2: Làm mát vùng bỏng**
+<img width="800" height="599" alt="image" src="https://github.com/user-attachments/assets/28581500-c108-4241-9ec5-ce2a211f417e" />
+
 - Xả nước sạch mát (15–20°C) lên vùng bỏng **tối thiểu 15–20 phút**.
 - Hoặc ngâm vùng bỏng dưới vòi nước chảy.
 - Mục đích: giảm đau, giảm tổn thương sâu.
