@@ -17,6 +17,7 @@
 ## ✅ 1. **Biafine**
 <img width="636" height="636" alt="image" src="https://github.com/user-attachments/assets/c533fe49-a781-47fb-95b1-412e1b1a61da" />
 https://nhathuoclongchau.com.vn/thuoc/biafine-93g-4517.html
+
 - Phổ biến nhất và an toàn cho trẻ.
 - Giảm đau rát, làm dịu da, hỗ trợ tái tạo mô.
 - Dùng cho: bỏng nước sôi nhỏ, bỏng nhẹ, cháy nắng.
@@ -27,6 +28,7 @@ https://nhathuoclongchau.com.vn/thuoc/biafine-93g-4517.html
 ## ✅ 2. **Silver sulfadiazine 1%** 
 <img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/a3a7daf6-fb91-4931-8a9d-bb90c7aa51e0" />
 https://www.pharmacity.vn/kem-chua-bong-sulfadiazin-bac-1-20g.html
+
 (Tên thương mại: Silvirin, Flammazine…)  
 - Có **kháng khuẩn mạnh**, ngăn nhiễm trùng.
 - Phù hợp cho bỏng có phỏng nước.
