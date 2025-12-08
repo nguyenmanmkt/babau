@@ -1,6 +1,5 @@
 # Sơ cứu trẻ bị chảy máu cam
 
-<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/bccac4b2-c9b3-4767-9201-09c087a3d50d" />
 
 ## 1. Nhận biết chảy máu cam
 Chảy máu cam là tình trạng máu chảy ra từ một hoặc hai bên mũi do vỡ các mạch máu nhỏ trong mũi. Thường không nguy hiểm nếu xử lý đúng cách.
@@ -10,12 +9,17 @@ Chảy máu cam là tình trạng máu chảy ra từ một hoặc hai bên mũi
 ## 2. Các bước sơ cứu đúng cách
 
 ### **Bước 1: Giữ bình tĩnh và trấn an trẻ**
+
+<img width="1200" height="1000" alt="image" src="https://github.com/user-attachments/assets/cfa417ce-042d-4fa3-9e7f-9b150bcf3b70" />
+
 - Đặt trẻ ngồi **thẳng**, hơi **nghiêng đầu về phía trước**.  
 - **Không ngửa đầu ra sau** vì máu có thể chảy vào họng gây nôn hoặc sặc.
 
 ---
 
 ### **Bước 2: Bóp cánh mũi**
+<img width="1200" height="1000" alt="image" src="https://github.com/user-attachments/assets/f976e295-fca0-41fc-a8d5-2261875b4635" />
+
 - Dùng ngón cái và ngón trỏ **bóp chặt phần mềm cánh mũi** (không bóp lên phần xương).
 - Giữ liên tục **10 phút**, không thả ra giữa chừng.
 - Thở bằng miệng.
