@@ -31,6 +31,10 @@ Trẻ em 2 - 6 tuổi: 1 - 2 thìa cà phê (tương đương 5 - 10 ml)/lần.
 ---
 
 ## 2. Thuốc hạ sốt đặt hậu môn (Paracetamol dạng suppository)
+<img width="636" height="636" alt="image" src="https://github.com/user-attachments/assets/95c3e2c4-e141-412f-8065-84070683dd8d" />
+
+- https://nhathuoclongchau.com.vn/thuoc/efferalgan-80mg-dat-hau-mon-2x5-16479.html
+
 ### Khi nào dùng?
 - Trẻ **nôn ói nhiều**  
 - Trẻ **không uống được thuốc**  
