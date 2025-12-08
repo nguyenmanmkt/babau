@@ -1,4 +1,4 @@
-# 🟦 1. Lộ trình TIÊM KẾT HỢP tối ưu (ít sốt, đủ mũi quan trọng, tiết kiệm)
+# 🟦 Lộ trình TIÊM KẾT HỢP tối ưu (ít sốt, đủ mũi quan trọng, tiết kiệm)
 
 Đây là lịch được nhiều bác sĩ nhi khuyên:
 → Dùng 6in1 + Prevenar + Rota (mũi quan trọng nhất)
