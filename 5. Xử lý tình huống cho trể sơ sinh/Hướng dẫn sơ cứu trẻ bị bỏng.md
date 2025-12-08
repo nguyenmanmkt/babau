@@ -50,7 +50,7 @@
 ---
 
 ## ✅ **Bước 4: Giảm đau & theo dõi**
-- [Có thể bôi thuốc nếu cần thiết](https://github.com/nguyenmanmkt/babau/blob/main/6.%20T%E1%BB%A7%20thu%E1%BB%91c%20gia%20%C4%91%C3%ACnh%20cho%20m%E1%BA%B9%20v%C3%A0%20b%C3%A9%20y%C3%AAu/Thu%E1%BB%91c%20b%C3%B4i%20cho%20tr%E1%BA%BB%20b%E1%BB%8B%20b%E1%BB%8Fng%20nh%E1%BA%B9%20%C4%91%E1%BA%BFn%20v%E1%BB%ABa.md)
+- Có thể bôi thuốc nếu cần thiết[Cách dùng](https://github.com/nguyenmanmkt/babau/blob/main/6.%20T%E1%BB%A7%20thu%E1%BB%91c%20gia%20%C4%91%C3%ACnh%20cho%20m%E1%BA%B9%20v%C3%A0%20b%C3%A9%20y%C3%AAu/Thu%E1%BB%91c%20b%C3%B4i%20cho%20tr%E1%BA%BB%20b%E1%BB%8B%20b%E1%BB%8Fng%20nh%E1%BA%B9%20%C4%91%E1%BA%BFn%20v%E1%BB%ABa.md)
 - Có thể dùng Paracetamol đúng liều nếu bé đau (10–15 mg/kg).
 - Quan sát dấu hiệu nhiễm trùng: đỏ lan rộng, mủ, sốt.
 
