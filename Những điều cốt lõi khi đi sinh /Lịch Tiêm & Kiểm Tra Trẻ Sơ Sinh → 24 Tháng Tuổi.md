@@ -1,68 +1,61 @@
-# 🟦 Lộ trình TIÊM KẾT HỢP tối ưu (ít sốt, đủ mũi quan trọng, tiết kiệm)
+# Lộ trình kết hợp TCMR + VNVC 
+> Nguyên tắc: 
+> - Tận dụng tối đa TCMR cho vắc xin cơ bản miễn phí. 
+> - Dùng VNVC để bổ sung các mũi TCMR không có (rota, phế cầu, cúm, não mô cầu, thủy đậu, viêm gan A/B kết hợp, thương hàn, tả…). [web:1]
 
-Đây là lịch được nhiều bác sĩ nhi khuyên:
-→ Dùng 6in1 + Prevenar + Rota (mũi quan trọng nhất)
-→ Bỏ bớt các mũi dịch vụ đắt nhưng ít cần thiết (Twinrix, Tả)
-→ Kết hợp một số mũi miễn phí của TCMR (tiết kiệm, hiệu quả tương đương)
+## 1. Giai đoạn sơ sinh – 2 tháng
 
-## 🟨 0 – 1 tháng (ở bệnh viện)
+- **TCMR**
+  - Sơ sinh: Viêm gan B liều sơ sinh, BCG (lao). 
+  - 2 tháng: Mũi 1 vắc xin phối hợp (5 trong 1 hoặc tương đương tùy chương trình: bạch hầu, ho gà, uốn ván, bại liệt, Hib, ± viêm gan B).  
+- **VNVC (gợi ý)**
+  - Không nhất thiết mua gói 0–2 tuổi trọn bộ; nên tiêm **lẻ**:
+    - Phế cầu mũi 1 (Prevenar 13). [web:1]
+    - Rota mũi 1 (Rotarix 2 liều hoặc Rotateq 3 liều, nên chọn Rotarix để ít lần uống hơn, chi phí tổng nhẹ hơn). [web:1]
 
-- Viêm gan B sơ sinh	Ngừa lây từ mẹ	**Bắt buộc**
-- BCG (Lao)	Ngừa lao nặng	Có thể tiêm sau 1–2 tuần
-## 🟦 2 tháng
+## 2. Giai đoạn 3–4–5 tháng
 
-- Hexaxim (6in1) – mũi 1	Dịch vụ	Ít sốt hơn 5in1
-- Prevenar 13 – mũi 1	Dịch vụ	Ngừa viêm phổi, màng não
-- Rotarix – mũi 1	Uống	Ngừa tiêu chảy cấp (bắt buộc nên uống)
-## 🟦 3 tháng
+- **TCMR**
+  - Mũi 2, 3 của vắc xin phối hợp (5 trong 1/6 trong 1 chương trình, tùy lịch địa phương). 
+- **VNVC (gợi ý)**
+  - Hoàn tất phác đồ đang tiêm dịch vụ:
+    - Phế cầu: mũi 2, 3 (và mũi 4 nhắc tùy lịch bác sĩ). [web:1]
+    - Rota: hoàn tất Rotarix (mũi 2) hoặc Rotateq (mũi 2,3). [web:1]
+  - Có thể bắt đầu tiêm **cúm mùa** từ 6 tháng nhưng nếu muốn tiêm sớm, trao đổi thêm với bác sĩ để cân lịch.
 
-- Hexaxim – mũi 2	Dịch vụ
-- Prevenar 13 – mũi 2	Dịch vụ
-- Rotarix – mũi 2 (cuối)	Dịch vụ
-## 🟦 4 tháng
-Mũi	Loại
-Hexaxim – mũi 3	Dịch vụ
-Prevenar 13 – mũi 3	Dịch vụ
-## 🟦 6 tháng
+## 3. Giai đoạn 6–9 tháng
 
-- Cúm – mũi 1
-- Sau 1 tháng: Cúm – mũi 2
+- **TCMR**
+  - 6 tháng: Một số nơi có lịch nhắc vắc xin phối hợp hoặc các mũi khác (tùy chương trình). 
+  - 9 tháng: Mũi sởi đơn (MVVAC) trong TCMR. 
+- **VNVC (gợi ý)**
+  - 6 tháng:
+    - Cúm mùa mũi 1, sau đó nhắc mũi 2 cách 1 tháng nếu bé chưa từng tiêm cúm trước đó. [web:1]
+  - 7–9 tháng:
+    - Não mô cầu B (Bexsero) theo phác đồ (thường 2–3 liều) nếu gia đình muốn phòng thêm các bệnh viêm màng não do não mô cầu. [web:1]
+    - Não mô cầu ACYW (Menactra) mũi 1 (tùy bác sĩ khuyến nghị). [web:1]
+    - Viêm não Nhật Bản dạng dịch vụ (Imojev) 1 mũi nếu muốn dùng loại sống giảm độc lực tiện lợi (thay hoặc song song chương trình, bác sĩ sẽ cân). [web:1]
 
-## 🟦 9 tháng
+## 4. Giai đoạn 12–15 tháng
 
-Sởi (TCMR – miễn phí)	Quan trọng
+- **TCMR**
+  - Nhắc sởi – rubella (tùy lịch TCMR hiện hành). 
+- **VNVC (gợi ý)**
+  - **MMR (M-M-R II)**: Sởi – quai bị – rubella dịch vụ (bổ sung quai bị + tăng miễn dịch). [web:1]
+  - **Thủy đậu**: 1 mũi Varilrix hoặc Varivax, sau này có thể nhắc theo khuyến cáo. [web:1]
+  - **Viêm gan A/B kết hợp** (Twinrix) mũi 1 (nếu muốn phòng thêm viêm gan A và nhắc lại B). [web:1]
 
-## 🟦 12 tháng
-- MMR – mũi 1 (dịch vụ)	Ít sốt hơn loại nội địa
-- Thủy đậu – mũi 1	Quan trọng trước đi học
+## 5. Giai đoạn 18–24 tháng
 
-## 🟦 15 tháng
-
-Prevenar 13 – mũi 4 (nhắc)	Giúp miễn dịch bền vững
-
-## 🟦 18 tháng
-
-- MMR – mũi 2	Hoàn thiện
-- DPT (TCMR)	Nhắc uốn ván – ho gà
-
-## 🟦 24 tháng
-
-- Thương hàn	Nên tiêm
-- Tả	Không cần nếu sinh hoạt sạch sẽ
+- **TCMR**
+  - Nhắc viêm não Nhật Bản, một số mũi nhắc khác tùy lịch địa phương (bác sĩ TCMR sẽ ghi rõ trong sổ). 
+- **VNVC (gợi ý)**
+  - 18–24 tháng:
+    - Twinrix mũi 2 (hoàn tất phác đồ). [web:1]
+    - Nhắc thủy đậu (nếu phác đồ 2 liều). [web:1]
+  - Đúng mốc **24 tháng** (VNVC):
+    - **Thương hàn** (Typhoid Vi – Davac). [web:1]
+    - **Tả uống** (mOrcvax – 2 liều, theo phác đồ). [web:1]
 
 
-##🟥 3. Bảng so sánh: Kết hợp tối ưu vs Full VNVC
-Vaccine	Kết hợp tối ưu	Full VNVC	Nhận xét
-- 6in1	✔ 3 mũi	✔ 4 mũi	Thực tế chỉ cần 3 mũi là đủ
-- Prevenar 13	✔ 4 mũi	✔ 4 mũi	Giống nhau
-- Rotarix	✔ 2 mũi	✔ 2 mũi	Giống
-- Cúm	✔	✔	Giống
-- Sởi	✔ miễn phí	✔ dịch vụ	Hiệu quả giống, dịch vụ ít sốt hơn
-- MMR	✔ 1 tuổi + 18 tháng	✔ 12 tháng + 24 tháng	Tương đương
-- Thủy đậu	✔	✔	Giống
-- Thương hàn	✔	✔	Giống
-- Tả	❌ thường bỏ	✔	Ít cần
-- Twinrix	❌ không cần	✔	Thừa, không khuyến cáo rộng rãi
-- Menactra	❌ không ưu tiên	✔	Chỉ cần khi đi vùng dịch
-- Bexsero	❌ không bắt buộc	✔	Đắt, không nằm trong lịch quốc gia
-- Viêm não NB	Chọn TCMR (miễn phí)	Imojev dịch vụ	Cùng hiệu quả
+
