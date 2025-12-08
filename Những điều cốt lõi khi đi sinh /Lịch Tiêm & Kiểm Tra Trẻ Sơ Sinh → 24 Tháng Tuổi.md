@@ -7,8 +7,8 @@
 
 ## 🟨 0 – 1 tháng (ở bệnh viện)
 
-Viêm gan B sơ sinh	Ngừa lây từ mẹ	Bắt buộc
-BCG (Lao)	Ngừa lao nặng	Có thể tiêm sau 1–2 tuần
+- Viêm gan B sơ sinh	Ngừa lây từ mẹ	**Bắt buộc**
+- BCG (Lao)	Ngừa lao nặng	Có thể tiêm sau 1–2 tuần
 ## 🟦 2 tháng
 
 - Hexaxim (6in1) – mũi 1	Dịch vụ	Ít sốt hơn 5in1
