@@ -47,49 +47,22 @@ Prevenar 13 – mũi 4 (nhắc)	Giúp miễn dịch bền vững
 
 ## 🟦 24 tháng
 
-Thương hàn	Nên tiêm
-Tả	Không cần nếu sinh hoạt sạch sẽ
-🟩 Đây là lịch tối ưu — đầy đủ mũi quan trọng, ít sốt, tiết kiệm nhiều.
-🟦 2. Lịch tiêm Full VNVC (theo bảng Mẫn gửi)
+- Thương hàn	Nên tiêm
+- Tả	Không cần nếu sinh hoạt sạch sẽ
 
-Gồm đầy đủ:
-
-6in1
-
-Prevenar 13
-
-Rotarix
-
-Cúm
-
-Sởi – MMR
-
-Thủy đậu
-
-Thương hàn – Tả
-
-Twinrix (viêm gan A + B)
-
-Bexsero (Não mô cầu B)
-
-Menactra (Não mô cầu A,C,Y,W)
-
-Imojev (Viêm não Nhật Bản)
-
-⚡ Lịch này đầy đủ nhất nhưng cực tốn chi phí, có mũi không thật sự cần thiết.
 
 ##🟥 3. Bảng so sánh: Kết hợp tối ưu vs Full VNVC
 Vaccine	Kết hợp tối ưu	Full VNVC	Nhận xét
-6in1	✔ 3 mũi	✔ 4 mũi	Thực tế chỉ cần 3 mũi là đủ
-Prevenar 13	✔ 4 mũi	✔ 4 mũi	Giống nhau
-Rotarix	✔ 2 mũi	✔ 2 mũi	Giống
-Cúm	✔	✔	Giống
-Sởi	✔ miễn phí	✔ dịch vụ	Hiệu quả giống, dịch vụ ít sốt hơn
-MMR	✔ 1 tuổi + 18 tháng	✔ 12 tháng + 24 tháng	Tương đương
-Thủy đậu	✔	✔	Giống
-Thương hàn	✔	✔	Giống
-Tả	❌ thường bỏ	✔	Ít cần
-Twinrix	❌ không cần	✔	Thừa, không khuyến cáo rộng rãi
-Menactra	❌ không ưu tiên	✔	Chỉ cần khi đi vùng dịch
-Bexsero	❌ không bắt buộc	✔	Đắt, không nằm trong lịch quốc gia
-Viêm não NB	Chọn TCMR (miễn phí)	Imojev dịch vụ	Cùng hiệu quả
+- 6in1	✔ 3 mũi	✔ 4 mũi	Thực tế chỉ cần 3 mũi là đủ
+- Prevenar 13	✔ 4 mũi	✔ 4 mũi	Giống nhau
+- Rotarix	✔ 2 mũi	✔ 2 mũi	Giống
+- Cúm	✔	✔	Giống
+- Sởi	✔ miễn phí	✔ dịch vụ	Hiệu quả giống, dịch vụ ít sốt hơn
+- MMR	✔ 1 tuổi + 18 tháng	✔ 12 tháng + 24 tháng	Tương đương
+- Thủy đậu	✔	✔	Giống
+- Thương hàn	✔	✔	Giống
+- Tả	❌ thường bỏ	✔	Ít cần
+- Twinrix	❌ không cần	✔	Thừa, không khuyến cáo rộng rãi
+- Menactra	❌ không ưu tiên	✔	Chỉ cần khi đi vùng dịch
+- Bexsero	❌ không bắt buộc	✔	Đắt, không nằm trong lịch quốc gia
+- Viêm não NB	Chọn TCMR (miễn phí)	Imojev dịch vụ	Cùng hiệu quả
