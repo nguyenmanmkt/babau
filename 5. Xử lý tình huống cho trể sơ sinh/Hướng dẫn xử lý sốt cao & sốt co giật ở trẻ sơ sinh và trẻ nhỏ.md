@@ -66,7 +66,8 @@
 -   **Có thể dùng thuốc hạ sốt đặt hậu môn EFFERALGAN/Paracetamol** nếu:
     -   Trẻ còn lơ mơ chưa uống được.
     -   Tuyệt đối **chỉ dùng sau khi cơn co giật đã dừng**.
-
+      
+https://github.com/nguyenmanmkt/babau/blob/main/6.%20T%E1%BB%A7%20thu%E1%BB%91c%20gia%20%C4%91%C3%ACnh%20cho%20m%E1%BA%B9%20v%C3%A0%20b%C3%A9%20y%C3%AAu/Thu%E1%BB%91c%20h%E1%BA%A1%20s%E1%BB%91t%20cho%20tr%E1%BA%BB%20s%C6%A1%20sinh%20v%C3%A0%20tr%E1%BA%BB%20nh%E1%BB%8F.md
 ------------------------------------------------------------------------
 
 ## 4. Khi nào cần đưa trẻ đi bệnh viện?
