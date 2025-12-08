@@ -3,6 +3,7 @@
 ## 1. Thuốc hạ sốt an toàn: Paracetamol
 
 Paracetamol (Acetaminophen) là **thuốc hạ sốt duy nhất an toàn cho trẻ sơ sinh** và trẻ nhỏ nếu dùng đúng liều.
+
 **Lớn hơn 3 tháng tuổi trở lên, nhỏ hơn 3 tháng cần chỉ định bác sĩ** 
 
 ### Liều dùng
