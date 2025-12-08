@@ -45,7 +45,6 @@
 ## ✅ **Bước 3: Che phủ vết bỏng đúng cách**
 - Dùng gạc vô trùng hoặc khăn sạch thấm nước mát.
 - Không chọc vỡ bóng nước.
-- Không bôi thuốc mỡ, kem nếu chưa có chỉ định y tế.
 
 ---
 
