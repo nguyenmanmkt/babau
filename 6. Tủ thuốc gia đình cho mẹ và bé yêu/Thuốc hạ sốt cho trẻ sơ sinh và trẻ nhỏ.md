@@ -1,5 +1,5 @@
 # Thuốc hạ sốt cho trẻ sơ sinh và trẻ nhỏ
-##**🚨Lớn hơn 3 tháng tuổi trở lên, nhỏ hơn 3 tháng cần chỉ định bác sĩ🚨**
+## **🚨Lớn hơn 3 tháng tuổi trở lên, nhỏ hơn 3 tháng cần chỉ định bác sĩ🚨**
 
 ## 1. Thuốc hạ sốt an toàn: Paracetamol
 
