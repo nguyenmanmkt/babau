@@ -1,52 +1,51 @@
-#🟦 1. Lộ trình TIÊM KẾT HỢP tối ưu (ít sốt, đủ mũi quan trọng, tiết kiệm)
+# 🟦 1. Lộ trình TIÊM KẾT HỢP tối ưu (ít sốt, đủ mũi quan trọng, tiết kiệm)
 
 Đây là lịch được nhiều bác sĩ nhi khuyên:
 → Dùng 6in1 + Prevenar + Rota (mũi quan trọng nhất)
 → Bỏ bớt các mũi dịch vụ đắt nhưng ít cần thiết (Twinrix, Tả)
 → Kết hợp một số mũi miễn phí của TCMR (tiết kiệm, hiệu quả tương đương)
 
-##🟨 0 – 1 tháng (ở bệnh viện)
+## 🟨 0 – 1 tháng (ở bệnh viện)
 
 Viêm gan B sơ sinh	Ngừa lây từ mẹ	Bắt buộc
 BCG (Lao)	Ngừa lao nặng	Có thể tiêm sau 1–2 tuần
-##🟦 2 tháng
+## 🟦 2 tháng
 
 - Hexaxim (6in1) – mũi 1	Dịch vụ	Ít sốt hơn 5in1
 - Prevenar 13 – mũi 1	Dịch vụ	Ngừa viêm phổi, màng não
 - Rotarix – mũi 1	Uống	Ngừa tiêu chảy cấp (bắt buộc nên uống)
-##🟦 3 tháng
-Mũi	Loại
+## 🟦 3 tháng
+
 - Hexaxim – mũi 2	Dịch vụ
 - Prevenar 13 – mũi 2	Dịch vụ
 - Rotarix – mũi 2 (cuối)	Dịch vụ
-##🟦 4 tháng
+## 🟦 4 tháng
 Mũi	Loại
 Hexaxim – mũi 3	Dịch vụ
 Prevenar 13 – mũi 3	Dịch vụ
-##🟦 6 tháng
+## 🟦 6 tháng
 
-Cúm – mũi 1
+- Cúm – mũi 1
+- Sau 1 tháng: Cúm – mũi 2
 
-Sau 1 tháng: Cúm – mũi 2
-
-##🟦 9 tháng
+## 🟦 9 tháng
 
 Sởi (TCMR – miễn phí)	Quan trọng
 
-##🟦 12 tháng
+## 🟦 12 tháng
+- MMR – mũi 1 (dịch vụ)	Ít sốt hơn loại nội địa
+- Thủy đậu – mũi 1	Quan trọng trước đi học
 
-MMR – mũi 1 (dịch vụ)	Ít sốt hơn loại nội địa
-Thủy đậu – mũi 1	Quan trọng trước đi học
-##🟦 15 tháng
+## 🟦 15 tháng
 
 Prevenar 13 – mũi 4 (nhắc)	Giúp miễn dịch bền vững
 
-##🟦 18 tháng
+## 🟦 18 tháng
 
 - MMR – mũi 2	Hoàn thiện
 - DPT (TCMR)	Nhắc uốn ván – ho gà
 
-##🟦 24 tháng
+## 🟦 24 tháng
 
 Thương hàn	Nên tiêm
 Tả	Không cần nếu sinh hoạt sạch sẽ
