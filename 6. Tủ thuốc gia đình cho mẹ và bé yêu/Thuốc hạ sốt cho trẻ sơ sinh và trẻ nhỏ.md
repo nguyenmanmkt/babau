@@ -18,7 +18,9 @@ https://nhathuoclongchau.com.vn/thuoc/sara-strawberry-children-60ml-15153.html
 Liều thường dùng: Uống mỗi 4 - 6 giờ khi cần thiết nhưng không quá 5 lần/ngày.
 
 Trẻ em 4 tháng - 1 tuổi: 1/2 thìa cà phê (tương đương 2,5 ml)/lần.
+
 Trẻ em 1 - 2 tuổi: 1 thìa cà phê (tương đương 5 ml)/ lần.
+
 Trẻ em 2 - 6 tuổi: 1 - 2 thìa cà phê (tương đương 5 - 10 ml)/lần.
 
 - **Gói bột**: cho trẻ lớn hơn.
