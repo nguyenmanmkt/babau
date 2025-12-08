@@ -24,6 +24,8 @@
 
 ### **Trẻ \< 1 tuổi**
 
+<img width="640" height="450" alt="image" src="https://github.com/user-attachments/assets/0941f51d-bf27-498b-b47f-494790060500" />
+
 #### Bước 1: Đặt bé úp trên cánh tay
 
 -   Đỡ đầu bé thấp hơn thân.
