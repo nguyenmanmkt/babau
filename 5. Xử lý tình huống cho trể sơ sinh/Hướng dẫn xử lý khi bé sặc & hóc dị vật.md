@@ -43,6 +43,8 @@
 
 ### **Trẻ \> 1 tuổi**
 
+<img width="845" height="545" alt="image" src="https://github.com/user-attachments/assets/4bd3872b-952e-45b5-ae64-659c0bb1eaab" />
+
 -   Cho bé nghiêng người.
 -   Vỗ lưng 5 lần.
 -   Làm **Heimlich** nếu bé không ho/gần như không thở (phía dưới có
@@ -75,6 +77,8 @@ KHÔNG được: - Móc họng bằng tay. - Lắc bé. - Treo ngược chân.
 ------------------------------------------------------------------------
 
 ## 🟠 **Trẻ \> 1 tuổi** -- Sơ cứu Heimlich
+
+<img width="845" height="442" alt="image" src="https://github.com/user-attachments/assets/9e609175-2b16-4d39-af34-d74edfa91fd4" />
 
 ### Bước 1: Đứng/sau lưng bé --- vòng tay qua eo
 
