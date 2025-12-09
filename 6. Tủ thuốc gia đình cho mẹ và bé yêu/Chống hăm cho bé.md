@@ -1,6 +1,12 @@
 # 🍼 Routine Chăm Da Vùng Bỉm Cho Bé Sơ Sinh  
 *(Liniment Jonzac + Sudocrem khi hăm nặng)*  
 
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/4f3baf17-cd6f-47ac-bf32-d52c3f6b5880" />
+
+<img width="375" height="375" alt="image" src="https://github.com/user-attachments/assets/1c77b248-aa80-45b3-81b6-23851f3129bf" />
+
+ - **Sudocrem** [Long Châu](https://nhathuoclongchau.com.vn/cham-soc-ca-nhan/kem-ham-ta-sudocrem-655.html)
+
 ## ✅ 1. Khi bé bình thường (không hăm)
 **Sau mỗi lần thay bỉm:**
 1. Lau sạch vùng bỉm bằng **Liniment Jonzac**  
