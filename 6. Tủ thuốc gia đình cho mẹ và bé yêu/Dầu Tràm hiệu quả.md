@@ -1,5 +1,7 @@
 # Hướng Dẫn Dùng Dầu Tràm Cho Trẻ Sơ Sinh
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/936066e5-e9b6-4e8c-98e6-c6b43150db2c" />
+
 ## 🍼 1. Nguyên Tắc An Toàn
 - Chỉ dùng **dầu tràm nguyên chất** (Tràm Huế).  
 - Không bôi lên **mặt, mũi, miệng**, không nhỏ trực tiếp vào mũi.  
