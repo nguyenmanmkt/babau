@@ -1,5 +1,7 @@
 # Chàm Sữa (Eczema)
 
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/55579301-d488-4347-8759-75a0342ec7f3" />
+
 ### **Biểu hiện**
 - Các mảng đỏ, khô, có thể rỉ dịch  
 - Thường ở: má, trán, đầu, thân người  
