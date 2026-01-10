@@ -5,4 +5,4 @@
 - Hỏi bác sĩ về việc bổ xung D3 hay không, bệnh viện kê đơn hay tự mua
 - Lấy máu gót chân để xét nghiệm sàn lọc
 - Chiếu plasma lạnh làm lành vết thương
-- Lấy giấy chứng sinh
+- Lấy giấy chứng sinh (kiểm tra kỹ thông tin mẹ & bố)
