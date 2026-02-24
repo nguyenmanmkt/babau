@@ -5,11 +5,11 @@
 - **TCMR**
   - Sơ sinh: Viêm gan B liều sơ sinh, BCG (lao). 
   - 2 tháng: Mũi 1 vắc xin phối hợp (5 trong 1 hoặc tương đương tùy chương trình: bạch hầu, ho gà, uốn ván, bại liệt, Hib, ± viêm gan B).  
-- **VNVC (gợi ý)**
-  - Không nhất thiết mua gói 0–2 tuổi trọn bộ; nên tiêm **lẻ**:
-    - Phế cầu mũi 1 (Prevenar 13). [web:1]
-    - Rota mũi 1 (Rotarix 2 liều hoặc Rotateq 3 liều, nên chọn Rotarix để ít lần uống hơn, chi phí tổng nhẹ hơn). [web:1]
-
+  - Phế cầu mũi 1 (Prevenar 13).
+  - Rota mũi 1 :
+      - Rotarix (Bỉ): Uống 2 liều, bắt đầu từ 6 tuần tuổi, cách nhau tối thiểu 4 tuần.
+      - Rotateq (Mỹ): Uống 3 liều, bắt đầu từ 7.5 - 12 tuần tuổi, cách nhau tối thiểu 1 tháng.
+      - Rotavin-M1 (Việt Nam): Uống 2 liều, bắt đầu từ 6 tuần tuổi đến 6 tháng tuổi.
 ## 2. Giai đoạn 3–4–5 tháng
 
 - **TCMR**
