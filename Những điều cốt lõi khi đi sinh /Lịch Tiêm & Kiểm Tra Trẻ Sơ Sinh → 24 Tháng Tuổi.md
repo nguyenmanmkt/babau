@@ -3,7 +3,7 @@
 ## 1. Giai đoạn sơ sinh – 2 tháng
 
 - **TCMR**
-  - Sơ sinh: Viêm gan B liều sơ sinh, BCG (lao). 
+  - Sơ sinh: Viêm gan B liều sơ sinh, BCG (lao). "Đã tiêm"
   - 2 tháng: Mũi 1 vắc xin phối hợp (5 trong 1 hoặc tương đương tùy chương trình: bạch hầu, ho gà, uốn ván, bại liệt, Hib, ± viêm gan B).  
   - Phế cầu mũi 1:
       - Synflorix (Bỉ): Phổ biến cho trẻ từ 6 tuần đến 5 tuổi, phòng 10 chủng phế cầu.
