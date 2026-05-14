@@ -9,8 +9,6 @@
   - Suy giáp bẩm sinh (CH)
   - Thiếu men G6PD
   - Rối loạn chuyển hóa galactose
-- **Gói mở rộng (tùy chọn)**:
-  - PKU, rối loạn acid béo, chu trình ure…
 
 ## III. Sàng Lọc Thính Giác (0–7 ngày)
 - **Test OAE hoặc AABR** để phát hiện nghe kém bẩm sinh.
