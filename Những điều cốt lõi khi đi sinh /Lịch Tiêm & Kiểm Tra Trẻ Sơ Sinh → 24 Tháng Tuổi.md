@@ -2,7 +2,7 @@
 
 | Vaccine | Sơ sinh | 2T | 3T | 4T | 5T | 6T | 7T | 8T | 9T | 10T | 11T | 12T |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-| BCG (Lao) | Mũi 1 |  |  |  |  |  |  |  |  |  |  |  |
+| BCG (Lao) | Hoàn thành |  |  |  |  |  |  |  |  |  |  |  |
 | Viêm gan B | Mũi sơ sinh |  |  |  |  |  |  |  |  |  |  |  |
 | 5in1 |  | Mũi 1 |  | Mũi 2 |  | Mũi 3 |  |  |  |  |  | Nhắc sau |
 | Phế cầu 20 |  | Mũi 1 |  | Mũi 2 |  | Mũi 3 |  |  |  |  |  | Mũi nhắc |
