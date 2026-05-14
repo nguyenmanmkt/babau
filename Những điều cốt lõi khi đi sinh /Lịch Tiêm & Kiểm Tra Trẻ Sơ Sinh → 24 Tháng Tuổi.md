@@ -4,28 +4,26 @@
 
 - **TCMR**
   - Sơ sinh: Viêm gan B liều sơ sinh, BCG (lao). "Đã tiêm"
-  - Mũi 1 vắc xin phối hợp (5 trong 1 hoặc tương đương tùy chương trình: bạch hầu, ho gà, uốn ván, bại liệt, Hib, ± viêm gan B).  
-  - Phế cầu mũi 1:
-      - Synflorix (Bỉ): Phổ biến cho trẻ từ 6 tuần đến 5 tuổi, phòng 10 chủng phế cầu.
-      - Prevenar 13 (Bỉ): Phòng 13 chủng phế cầu, chỉ định cho trẻ em và người lớn.
+  - Mũi 1 vắc xin phối hợp (5 trong 1 hoặc tương đương tùy chương trình: bạch hầu, ho gà, uốn ván, Hib, ± viêm gan B).  
   - Rota mũi 1:
       - Rotarix (Bỉ): Uống 2 liều, bắt đầu từ 6 tuần tuổi, cách nhau tối thiểu 4 tuần.
       - Rotateq (Mỹ): Uống 3 liều, bắt đầu từ 7.5 - 12 tuần tuổi, cách nhau tối thiểu 1 tháng.
       - Rotavin-M1 (Việt Nam): Uống 2 liều, bắt đầu từ 6 tuần tuổi đến 6 tháng tuổi.
+- Dịch Vụ:
+    - Phế cầu mũi 1:
+      - Synflorix (Bỉ): Phổ biến cho trẻ từ 6 tuần đến 5 tuổi, phòng 10 chủng phế cầu.
+      - Prevenar 13 (Bỉ): Phòng 13 chủng phế cầu, chỉ định cho trẻ em và người lớn.
+    - Bại Liệt 1
 ## 2. Giai đoạn 3–4–5 tháng
 
 - **TCMR**
   - Mũi 2, 3 của vắc xin phối hợp (5 trong 1/6 trong 1 chương trình, tùy lịch địa phương). 
-- **VNVC (gợi ý)**
-  - Hoàn tất phác đồ đang tiêm dịch vụ:
-    - Phế cầu: mũi 2, 3 (và mũi 4 nhắc tùy lịch bác sĩ). [web:1]
-    - Rota: hoàn tất Rotarix (mũi 2) hoặc Rotateq (mũi 2,3). [web:1]
-  - Có thể bắt đầu tiêm **cúm mùa** từ 6 tháng nhưng nếu muốn tiêm sớm, trao đổi thêm với bác sĩ để cân lịch.
+- Dịch Vụ:
+  Hoàn thành phát đồ phế cầu, bại liệt
 
 ## 3. Giai đoạn 6–9 tháng
 
 - **TCMR**
-  - 6 tháng: Một số nơi có lịch nhắc vắc xin phối hợp hoặc các mũi khác (tùy chương trình). 
   - 9 tháng: Mũi sởi đơn (MVVAC) trong TCMR. 
 - **VNVC (gợi ý)**
   - 6 tháng:
