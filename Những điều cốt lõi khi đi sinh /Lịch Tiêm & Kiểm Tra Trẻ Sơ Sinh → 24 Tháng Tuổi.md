@@ -1,17 +1,19 @@
 # Lộ trình kết hợp TCMR + VNVC 
 
-| Vaccine | 2T | 3T | 4T | 5T | 6T | 7T | 8T | 9T | 10T | 11T | 12T |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 5in1 | Mũi 1 |  | Mũi 2 |  | Mũi 3 |  |  |  |  |  | Nhắc sau |
-| Phế cầu 20 | Mũi 1 |  | Mũi 2 |  | Mũi 3 |  |  |  |  |  | Mũi nhắc |
-| Rota | Mũi 1 |  | Mũi 2 |  | Mũi 3* |  |  |  |  |  |  |
-| Bại liệt (IPV) | Mũi 1 |  | Mũi 2 |  | Mũi 3 |  |  |  |  |  |  |
-| Cúm |  |  |  |  | Mũi 1 | Mũi 2 |  |  |  |  | Nhắc hằng năm |
-| Sởi đơn |  |  |  |  |  |  |  | Mũi 1 |  |  |  |
-| MMR |  |  |  |  |  |  |  |  |  |  | Mũi 1 |
-| Thủy đậu |  |  |  |  |  |  |  |  |  |  | Mũi 1 |
-| Viêm não Nhật Bản |  |  |  |  |  |  |  |  |  |  | Bắt đầu |
-| Não mô cầu |  |  |  |  |  |  |  |  |  |  | Tùy chọn |
+| Vaccine | Sơ sinh | 2T | 3T | 4T | 5T | 6T | 7T | 8T | 9T | 10T | 11T | 12T |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| BCG (Lao) | Mũi 1 |  |  |  |  |  |  |  |  |  |  |  |
+| Viêm gan B | Mũi sơ sinh |  |  |  |  |  |  |  |  |  |  |  |
+| 5in1 |  | Mũi 1 |  | Mũi 2 |  | Mũi 3 |  |  |  |  |  | Nhắc sau |
+| Phế cầu 20 |  | Mũi 1 |  | Mũi 2 |  | Mũi 3 |  |  |  |  |  | Mũi nhắc |
+| Rota |  | Mũi 1 |  | Mũi 2 |  | Mũi 3* |  |  |  |  |  |  |
+| Bại liệt (IPV) |  | Mũi 1 |  | Mũi 2 |  | Mũi 3 |  |  |  |  |  |  |
+| Cúm |  |  |  |  |  | Mũi 1 | Mũi 2 |  |  |  |  | Nhắc hằng năm |
+| Sởi đơn |  |  |  |  |  |  |  |  | Mũi 1 |  |  |  |
+| MMR |  |  |  |  |  |  |  |  |  |  |  | Mũi 1 |
+| Thủy đậu |  |  |  |  |  |  |  |  |  |  |  | Mũi 1 |
+| Viêm não Nhật Bản |  |  |  |  |  |  |  |  |  |  |  | Bắt đầu |
+| Não mô cầu |  |  |  |  |  |  |  |  |  |  |  | Tùy chọn |
 
 ## 1. Giai đoạn sơ sinh – 2 tháng
 
